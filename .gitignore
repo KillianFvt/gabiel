@@ -1,0 +1,15 @@
+.venv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.ico
+*.bmp
+*.tif
+*.tiff
+*.pyi
+*.pyc
+*.pyo
+*.pyd
